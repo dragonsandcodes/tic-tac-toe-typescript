@@ -1,8 +1,9 @@
 import Store from "./store.js";
+import type { Player } from "./types";
 import View from "./view.js";
 
 // Our players "config" - defines icons, colors, name, etc.
-const players = [
+const players: Player[] = [
   {
     id: 1,
     name: "Player 1",

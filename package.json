@@ -1,0 +1,11 @@
+{
+  "name": "live-ts-refactor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dragonsandcodes/tic-tac-toe-typescript.git",
+  "author": "Fanni Friedrich <fanni.friedrich@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
